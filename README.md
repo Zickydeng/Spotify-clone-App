@@ -1,5 +1,5 @@
 # Spotify-Clone
- This clone resembles the original spotify and uses spotify api to songs etc. It uses spotify user login authentications and then redirect the user back to the clone.
+ This clone resembles the original spotify and uses spotify api for playing songs etc. It uses spotify user login authentications and then redirect the user back to the clone.
  It's a responsive mini version of spotify with even clean/clear user interface.
  
  ![Spotify demo](spotify-demo.png?raw=true "Spotify clone")
